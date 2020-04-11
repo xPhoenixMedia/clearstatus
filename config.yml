@@ -21,5 +21,6 @@ params:
   iconType: image/png
   groups:
     - Frontend
+    - Backend
   icon: /images/clearstatus.png
   description_footer: ""
