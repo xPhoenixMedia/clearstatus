@@ -12,7 +12,7 @@ params:
       link: https://phoenixmedia.one
     - name: Mainframe
       group: Backend
-      description: Main Server for alle Applications
+      description: Main Server for all Applications
       link: https://serv1.phnx.rip
     - name: CDN
       group: Frontend
