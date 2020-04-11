@@ -18,6 +18,25 @@ params:
       group: Frontend
       description: Content-Delivery-Network
       link: https://cdn.phnx.rip
+    - name: Redirector
+      description: Custom Redirector for all phnx.rip/* links
+      link: https://phnx.rip
+    - name: Wordpress
+      group: Frontend
+      description: Wordpress Installation
+      link: https://blog.phoenixmedia.one
+    - name: Gameserver
+      group: Backend
+      link: https://serv1.phnx.rip:81
+    - name: Voiceserver
+      group: Backend
+      link: https://serv1.phnx.rip:81
+    - name: Mailserver
+      group: Backend
+      description: Mailserver for @*.phnx.rip, @phoenixmedia.one and *@mcuproductions.de
+    - name: Downloads
+      group: Backend
+      description: Filetransfer Service
   dateFormat: January 2, 2006 at 3:04 PM
   disqusShortname: null
   timezoneString: " UTC"
