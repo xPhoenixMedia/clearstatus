@@ -5,7 +5,19 @@ params:
   shortDateFormat: 15:04 — Jan 2
   meta_description: This status page provides updated information about our
     systems normal operation, incidents that may happen and their resolution.
-  systems: []
+  systems:
+    - name: Website
+      group: Frontend
+      description: Webserver and Handler for all Websites.
+      link: https://phoenixmedia.one
+    - name: Mainframe
+      group: Backend
+      description: Main Server for alle Applications
+      link: https://serv1.phnx.rip
+    - name: CDN
+      group: Frontend
+      description: Content-Delivery-Network
+      link: https://cdn.phnx.rip
   dateFormat: January 2, 2006 at 3:04 PM
   disqusShortname: null
   timezoneString: " UTC"
