@@ -7,7 +7,7 @@ pinned: ""
 current_severity: ok
 max_severity: down
 duration: ""
-resolved_on: 2020-04-11T18:05:06.988Z
+resolved_on: 2020-04-11T22:05:06.988Z
 affected:
   - Gameserver
 twitterFeed: ""
