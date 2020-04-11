@@ -45,8 +45,9 @@ params:
     phoenixmedia.one' href='https://phoenixmedia.one/'>PhoenixNetworks</a>
     systems operations.<br />Follow us <a class='text-grey-darkest' title='Visit
     our page on Twitter' href='https://www.twitter.com/xPhoenixMedia'>on
-    Twitter</a> or view our <a class='text-grey-darkest' href='%s'
-    >monitoring</a><br />for downtimes and pings.
+    Twitter</a> or view our <a class='text-grey-darkest'
+    href='https://monitor.phnx.rip' >monitoring</a><br />for downtimes and
+    pings.
   copyrightHolder: PhoenixMedia
   eventsPerPage: 10
   iconType: image/png
