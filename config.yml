@@ -40,13 +40,13 @@ params:
   dateFormat: January 2, 2006 at 3:04 PM
   disqusShortname: null
   timezoneString: " UTC"
-  logo: /images/clearstatus.svg
+  logo: https://cdn.phnx.rip/cdn/logo2.png
   description_header: Information about <a class='text-grey-darkest' title='Visit
     phoenixmedia.one' href='https://phoenixmedia.one/'>PhoenixNetworks</a>
     systems operations.<br />Follow us <a class='text-grey-darkest' title='Visit
     our page on Twitter' href='https://www.twitter.com/xPhoenixMedia'>on
     Twitter</a> or view our <a class='text-grey-darkest'
-    href='https://monitor.phnx.rip'>monitoring</a><br />for downtimes and pings.
+    href='https://monitor.phnx.rip'>monitoring</a><br/>for downtimes and pings.
   copyrightHolder: PhoenixMedia
   eventsPerPage: 10
   iconType: image/png
