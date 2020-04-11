@@ -4,7 +4,7 @@ title: Slow Gameservers
 date: 2020-04-11T18:05:06.897Z
 status: in_progress
 pinned: ""
-current_severity: disrupted
+current_severity: monitoring
 max_severity: down
 duration: ""
 resolved_on: 2020-04-11T18:05:06.988Z
