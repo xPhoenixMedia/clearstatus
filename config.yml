@@ -37,6 +37,8 @@ params:
     - name: Downloads
       group: Backend
       description: Filetransfer Service
+    - name: API
+      description: Discord Bots and co.
   dateFormat: January 2, 2006 at 3:04 PM
   disqusShortname: null
   timezoneString: " UTC"
