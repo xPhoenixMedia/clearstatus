@@ -4,7 +4,7 @@ title: "[15. Apr 2020] Gameserver Shutdown"
 date: 2020-04-12T20:33:34.589Z
 status: in_progress
 pinned: null
-current_severity: down
+current_severity: maintenance
 max_severity: down
 duration: ""
 resolved_on: 2020-04-12T20:33:34.692Z
