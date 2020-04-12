@@ -1,6 +1,6 @@
 ---
 section: issue
-title: Slow Gameservers
+title: "[4.Apr 2020] Slow Gameservers"
 date: 2020-04-11T18:05:06.897Z
 status: resolved
 pinned: ""
