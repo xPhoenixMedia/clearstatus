@@ -2,12 +2,12 @@
 section: issue
 title: "[12.Apr 2020] System Performance issues"
 date: 2020-04-12T18:30:03.656Z
-status: in_progress
+status: resolved
 pinned: ""
-current_severity: monitoring
+current_severity: ok
 max_severity: disrupted
 duration: ""
-resolved_on: ""
+resolved_on: 2020-04-12T22:50:00.000Z
 affected:
   - Website
   - Wordpress
