@@ -2,12 +2,12 @@
 section: issue
 title: "[15. Apr 2020] Gameserver Shutdown"
 date: 2020-04-12T20:33:34.589Z
-status: in_progress
+status: resolved
 pinned: null
-current_severity: monitoring
-max_severity: maintenance
+current_severity: ok
+max_severity: down
 duration: ""
-resolved_on: 2020-04-12T20:33:34.692Z
+resolved_on: 2020-04-13T16:00:34.692Z
 affected:
   - Gameserver
 twitterFeed: ""
