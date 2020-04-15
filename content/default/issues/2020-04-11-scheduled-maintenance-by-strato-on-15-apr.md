@@ -1,7 +1,7 @@
 ---
 section: issue
 title: Scheduled Maintenance by Strato on 15. Apr
-date: 2020-04-15T19:00:21.647Z
+date: 2020-04-15T10:50:17.633Z
 status: scheduled
 pinned: belowheader
 current_severity: ok
