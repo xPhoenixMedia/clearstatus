@@ -3,7 +3,7 @@ section: issue
 title: Scheduled Maintenance by Strato on 15. Apr
 date: 2020-04-15T10:50:17.633Z
 status: in_progress
-pinned: top
+pinned: belowheader
 current_severity: down
 max_severity: maintenance
 duration: ""
