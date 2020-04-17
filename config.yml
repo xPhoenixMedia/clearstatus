@@ -53,6 +53,8 @@ params:
     our page on Twitter' href='https://www.twitter.com/xPhoenixMedia'>on
     Twitter</a> or view our <a class='text-grey-darkest'
     href='https://monitor.phnx.rip'>monitoring</a><br/>for downtimes and pings.
+    You can also <a class="text-grey-darkest"
+    href="https://status.phoenixmedia.one/index.xml">Subscribe via RSS</a>
   copyrightHolder: PhoenixMedia
   eventsPerPage: 10
   iconType: image/png
