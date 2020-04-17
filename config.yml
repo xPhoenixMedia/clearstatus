@@ -52,9 +52,9 @@ params:
     systems operations.<br />Follow us <a class='text-grey-darkest' title='Visit
     our page on Twitter' href='https://www.twitter.com/xPhoenixMedia'>on
     Twitter</a> or view our <a class='text-grey-darkest'
-    href='https://monitor.phnx.rip'>monitoring</a><br/>for downtimes and pings.
-    You can also <a class="text-grey-darkest"
-    href="https://status.phoenixmedia.one/index.xml">Subscribe via RSS</a>
+    href='https://monitor.phnx.rip'>monitoring</a><br />for downtimes and pings.
+    You can also subscribe to <a class="text-grey-darkest"
+    href="/index.xml">RSS</a><br>to be alerted of new events.</p>
   copyrightHolder: PhoenixMedia
   eventsPerPage: 10
   iconType: image/png
