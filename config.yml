@@ -47,12 +47,14 @@ params:
   disqusShortname: null
   timezoneString: " UTC"
   logo: https://cdn.phnx.rip/cdn/logo2.png
-  description_header: Information about <a class='text-grey-darkest' title='Visit
+  description_header: "Information about <a class='text-grey-darkest' title='Visit
     example.com' href='https://phoenixmedia.one/'>PhoenixNetworks</a> systems
     operations.<br />Follow us <a class='text-grey-darkest' title='Visit our
     page on Twitter' href='https://www.twitter.com/xPhoenixMedia'>on Twitter</a>
     or subscribe to <a class='text-grey-darkest' href='%s' >RSS</a><br />to be
-    alerted of new events.
+    alerted of new events.<br /> View our <a class='text-grey-darkest'
+    title='Monitoring' href='https://monitor.phnx.rip'>Monitoring</a> for Uptime
+    Records and Pingchecks. "
   copyrightHolder: PhoenixMedia
   eventsPerPage: 10
   iconType: image/png
