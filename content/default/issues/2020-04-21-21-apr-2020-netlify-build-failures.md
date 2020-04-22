@@ -2,12 +2,12 @@
 section: issue
 title: "[21. Apr 2020] Netlify Build failures"
 date: 2020-04-21T18:18:57.252Z
-status: in_progress
+status: resolved
 pinned: ""
-current_severity: monitoring
+current_severity: ok
 max_severity: disrupted
 duration: ""
-resolved_on: ""
+resolved_on: 2020-04-22T09:06:25.137Z
 affected:
   - Frontpage
   - CDN
