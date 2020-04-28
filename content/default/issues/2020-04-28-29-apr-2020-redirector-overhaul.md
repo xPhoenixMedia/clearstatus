@@ -3,7 +3,7 @@ section: issue
 title: "[29. Apr 2020] Redirector Overhaul"
 date: 2020-04-28T22:42:21.601Z
 status: in_progress
-pinned: belowheader
+pinned: null
 current_severity: maintenance
 max_severity: maintenance
 duration: 24h
