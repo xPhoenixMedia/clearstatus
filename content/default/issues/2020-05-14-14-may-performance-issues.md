@@ -1,10 +1,10 @@
 ---
 section: issue
-title: "[14. May] Performance Issues"
+title: "[14. May 2020] Performance Issues"
 date: 2020-05-14T11:39:34.702Z
 status: in_progress
 pinned: ""
-current_severity: disrupted
+current_severity: down
 max_severity: disrupted
 duration: ""
 resolved_on: 2020-05-14T11:39:36.425Z
