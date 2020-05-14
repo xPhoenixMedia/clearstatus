@@ -4,8 +4,8 @@ title: "[14. May 2020] Performance Issues"
 date: 2020-05-14T11:39:34.702Z
 status: in_progress
 pinned: ""
-current_severity: down
-max_severity: disrupted
+current_severity: disrupted
+max_severity: down
 duration: ""
 resolved_on: 2020-05-14T11:39:36.425Z
 affected:
