@@ -3,7 +3,7 @@ section: issue
 title: Mainframe Offline
 date: 2020-05-15T12:04:27.494Z
 status: in_progress
-pinned: top
+pinned: belowheader
 current_severity: down
 max_severity: down
 duration: ""
