@@ -2,12 +2,12 @@
 section: issue
 title: Gameserver Migration
 date: 2020-05-25T19:23:34.870Z
-status: in_progress
+status: resolved
 pinned: ""
-current_severity: maintenance
+current_severity: ok
 max_severity: maintenance
 duration: ""
-resolved_on: 2020-05-25T19:23:36.466Z
+resolved_on: 2020-06-12T00:10:44.857Z
 affected:
   - Gameserver
   - Voiceserver
