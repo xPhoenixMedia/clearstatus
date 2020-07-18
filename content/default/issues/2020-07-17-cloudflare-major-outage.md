@@ -1,6 +1,6 @@
 ---
 section: issue
-title: "[18. Jul]Cloudflare Major Outage"
+title: "[18. Jul] Cloudflare Major Outage"
 date: 2020-07-17T22:08:55.294Z
 status: resolved
 pinned: ""
