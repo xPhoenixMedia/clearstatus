@@ -4,7 +4,7 @@ title: "[18.Jul] Gameserver TLS Error"
 date: 2020-07-18T18:46:29.533Z
 status: in_progress
 pinned: ""
-current_severity: down
+current_severity: maintenance
 max_severity: disrupted
 duration: ""
 resolved_on: 2020-07-18T18:46:29.638Z
