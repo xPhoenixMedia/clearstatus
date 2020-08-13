@@ -2,7 +2,7 @@
 section: issue
 title: "[13. Aug] Upgrade to Ubuntu 20.04 LTS"
 date: 2020-08-13T11:35:39.323Z
-status: in_progress
+status: resolved
 pinned: ""
 current_severity: ok
 max_severity: down
