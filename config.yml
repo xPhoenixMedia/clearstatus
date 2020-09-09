@@ -1,5 +1,5 @@
 title: PhoenixNetworks Statuspage
-baseURL: https://status.phoenixmedia.one
+baseURL: https://status.phoenixmediafx.com
 languageCode: en
 params:
   shortDateFormat: 15:04 — Jan 2
@@ -48,7 +48,7 @@ params:
   timezoneString: " UTC"
   logo: https://cdn.phnx.rip/cdn/networkslogoBlack.png
   description_header: "Information about <a class='text-grey-darkest' title='Visit
-    example.com' href='https://phoenixmedia.one/'>PhoenixNetworks</a> systems
+    example.com' href='https://phoenixmediafx.com/'>PhoenixNetworks</a> systems
     operations.<br />Follow us <a class='text-grey-darkest' title='Visit our
     page on Twitter' href='https://www.twitter.com/xPhoenixMedia'>on Twitter</a>
     or subscribe to <a class='text-grey-darkest' href='%s' >RSS</a><br />to be
