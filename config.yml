@@ -8,12 +8,12 @@ params:
   systems:
     - name: Frontpage
       description: Landing Page
-      link: https://phoenixmedia.one/
+      link: https://phoenixmediafx.com/
       group: Frontend
     - name: Website
       group: Frontend
       description: Webserver and Handler for all Websites.
-      link: https://blog.phoenixmedia.one
+      link: https://blog.phoenixmediafx.com
     - name: Mainframe
       group: Backend
       description: Main Server for all Applications
@@ -28,7 +28,7 @@ params:
     - name: Wordpress
       group: Frontend
       description: Wordpress Installation
-      link: https://blog.phoenixmedia.one
+      link: https://blog.phoenixmediafx.com
     - name: Gameserver
       group: Backend
       link: https://serv1.phnx.rip:81
