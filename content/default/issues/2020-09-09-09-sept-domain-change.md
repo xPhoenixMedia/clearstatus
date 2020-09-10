@@ -2,12 +2,12 @@
 section: issue
 title: "[09.Sept.] Domain Change"
 date: 2020-09-09T13:16:37.350Z
-status: in_progress
+status: resolved
 pinned: ""
-current_severity: maintenance
+current_severity: ok
 max_severity: down
 duration: ""
-resolved_on: 2020-09-09T13:16:37.464Z
+resolved_on: 2020-09-10T13:54:44.482Z
 affected:
   - Frontpage
   - Website
