@@ -53,7 +53,7 @@ params:
     page on Twitter' href='https://www.twitter.com/xPhoenixMedia'>on Twitter</a>
     or subscribe to <a class='text-grey-darkest' href='%s' >RSS</a><br />to be
     alerted of new events.<br /> View our <a class='text-grey-darkest'
-    title='Monitoring' href='https://monitor.phnx.rip'>Monitoring</a> for Uptime
+    title='Monitoring' href='https://monitor.phnx.xyz'>Monitoring</a> for Uptime
     Records and Pingchecks. "
   copyrightHolder: PhoenixMedia
   eventsPerPage: 10
