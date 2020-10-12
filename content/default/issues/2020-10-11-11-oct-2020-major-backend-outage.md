@@ -4,7 +4,7 @@ title: "[11. Oct 2020] Major Backend Outage"
 date: 2020-10-11T13:54:49.679Z
 status: in_progress
 pinned: ""
-current_severity: disrupted
+current_severity: down
 max_severity: down
 duration: ""
 resolved_on: 2020-10-11T13:54:49.775Z
